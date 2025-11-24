@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="8_24.svg"
+   inkscape:export-filename="/home/hera/MunechikaHaruki/8_24.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.64052329"
+     inkscape:cx="397.33138"
+     inkscape:cy="561.25984"
+     inkscape:window-width="1920"
+     inkscape:window-height="1084"
+     inkscape:window-x="1080"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1965"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1750"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:2, 1;stroke-dashoffset:0"
+       id="rect31173"
+       width="364.00119"
+       height="169.57619"
+       x="-72.651306"
+       y="6.3819427" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.00000003;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:2.00000006,1.00000003;stroke-dashoffset:0"
+       d="M 32.542162,157.37745 C 89.27046,124.2289 145.99868,91.080392 202.72681,57.931936"
+       id="path1963"
+       inkscape:path-effect="#path-effect1965"
+       inkscape:original-d="M 32.542162,157.37745 C 89.270643,124.22921 145.99886,91.080705 202.72681,57.931936" />
+    <path
+       sodipodi:type="star"
+       style="fill:none;stroke:#000000;stroke-width:3.77952761;stroke-dashoffset:25.1339;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path1040"
+       inkscape:flatsided="true"
+       sodipodi:sides="3"
+       sodipodi:cx="131.08884"
+       sodipodi:cy="610.80878"
+       sodipodi:r1="249.66994"
+       sodipodi:r2="124.83496"
+       sodipodi:arg1="-2.6179939"
+       sodipodi:arg2="-1.5707963"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m -85.131674,485.97381 432.441014,-1e-5 -216.2205,374.50491 z"
+       transform="matrix(0.26458333,0,0,0.26458333,-2.141761,-70.290868)"
+       inkscape:transform-center-y="16.514623" />
+    <ellipse
+       style="fill:#000000;stroke-width:1;stroke-dashoffset:25.1339;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path846"
+       cx="32.572418"
+       cy="162.30617"
+       rx="5.1958947"
+       ry="5.3546166" />
+    <path
+       sodipodi:type="star"
+       style="fill:none;stroke:#008000;stroke-width:3.77952758;stroke-dashoffset:25.1339;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path1040-0"
+       inkscape:flatsided="true"
+       sodipodi:sides="3"
+       sodipodi:cx="131.08884"
+       sodipodi:cy="610.80878"
+       sodipodi:r1="249.66994"
+       sodipodi:r2="124.83496"
+       sodipodi:arg1="-2.6179939"
+       sodipodi:arg2="-1.5707963"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       transform="matrix(0.22913589,0.13229166,-0.13229166,0.22913589,116.33916,-57.131061)"
+       inkscape:transform-center-y="2.6962851e-06"
+       d="m -85.131674,485.97381 432.441014,-1e-5 -216.2205,374.50491 z"
+       inkscape:transform-center-x="-16.514635" />
+    <path
+       style="fill:#d40000;stroke:#000000;stroke-width:0.775988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -24.666183,58.281826 c 75.479211,-0.01818 150.958223,-0.03637 226.437013,-0.05455"
+       id="path1748"
+       inkscape:path-effect="#path-effect1750"
+       inkscape:original-d="m -24.666183,58.281826 c 75.479211,-0.01798 150.958223,-0.03616 226.437013,-0.05455" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       x="-33.075447"
+       y="104.26967"
+       id="text10995"><tspan
+         sodipodi:role="line"
+         id="tspan10993"
+         style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+         x="-33.075447"
+         y="104.26967">Cam1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       x="91.091881"
+       y="136.51013"
+       id="text14563"><tspan
+         sodipodi:role="line"
+         id="tspan14561"
+         style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+         x="91.091881"
+         y="136.51013">Cam2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.3551px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.408877"
+       x="64.373482"
+       y="33.653309"
+       id="text31963"><tspan
+         sodipodi:role="line"
+         id="tspan31961"
+         style="stroke-width:0.408877"
+         x="64.373482"
+         y="33.653309">平面パノラマ</tspan></text>
+  </g>
+</svg>

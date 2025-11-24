@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg9493"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="8_16.svg"
+   inkscape:export-filename="/home/hera/MunechikaHaruki/8_16.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview9495"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.64052329"
+     inkscape:cx="246.67331"
+     inkscape:cy="186.56621"
+     inkscape:window-width="1920"
+     inkscape:window-height="1084"
+     inkscape:window-x="1080"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs9490">
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Lend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path2140" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect14491"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;stroke:none;stroke-width:1.68009;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.0157"
+       id="rect14517"
+       width="217.86491"
+       height="215.96875"
+       x="-93.915779"
+       y="-18.293909" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1.065;stroke-dashoffset:10.0157"
+       id="rect9588"
+       width="138.07841"
+       height="120.63224"
+       x="-51.655239"
+       y="48.040871" />
+    <ellipse
+       style="fill:#000000;stroke:#000000;stroke-width:1.30575;stroke-dashoffset:10.0157"
+       id="path9726"
+       cx="-52.609589"
+       cy="45.92873"
+       rx="4.34586"
+       ry="4.7042155" />
+    <ellipse
+       style="fill:#000000;stroke:#000000;stroke-width:1.065;stroke-dashoffset:10.0157"
+       id="path9728"
+       cx="-52.11866"
+       cy="169.35384"
+       rx="4.4782848"
+       ry="4.3566618" />
+    <ellipse
+       style="fill:#000000;stroke:#000000;stroke-width:1.065;stroke-dashoffset:10.0157"
+       id="path9730"
+       cx="85.697548"
+       cy="169.93272"
+       rx="4.0406547"
+       ry="3.3422186" />
+    <ellipse
+       style="fill:#000000;stroke:#000000;stroke-width:0.961281;stroke-dashoffset:10.0157"
+       id="path9732"
+       cx="85.229485"
+       cy="49.842583"
+       rx="4.6965675"
+       ry="4.8688293" />
+    <ellipse
+       style="fill:#ff0000;stroke:none;stroke-width:1.065;stroke-dashoffset:10.0157"
+       id="path9962"
+       cx="-26.663626"
+       cy="77.483025"
+       rx="3.6214039"
+       ry="3.691361" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-21.852869"
+       y="74.841309"
+       id="text13002"><tspan
+         sodipodi:role="line"
+         id="tspan13000"
+         style="stroke-width:0.264583"
+         x="-21.852869"
+         y="74.841309">(x,y)</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#Arrow1Lend)"
+       d="m -46.593474,54.801145 c 5.312955,6.103107 10.625666,12.205933 15.93813,18.308476"
+       id="path14489"
+       inkscape:path-effect="#path-effect14491"
+       inkscape:original-d="m -46.593474,54.801145 c 5.312974,6.103091 10.625685,12.205917 15.93813,18.308476" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:17.625px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.440627"
+       x="-61.06118"
+       y="19.644962"
+       id="text16561"><tspan
+         sodipodi:role="line"
+         id="tspan16559"
+         style="stroke-width:0.440627"
+         x="-61.06118"
+         y="19.644962">ニアレストネイバー</tspan></text>
+  </g>
+</svg>
